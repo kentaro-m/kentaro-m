@@ -7,8 +7,6 @@ I'm a web developer in Kanazawa, Japan. I've created some tools to improve produ
 - 🔭 I'm working to improve gaming platform at EXNOA LLC.
 - 🌱 I’m learning GraphQL, React and TypeScript.
 
-💪 [See more details about my skills and my experience (Japanese).](https://github.com/kentaro-m/resume)
-
 ### 🌎 Find me on the web
 - 🐦 Tweeting my daily life on [Twitter](https://twitter.com/_kentaro_m)
 - 🎙️ Sharing my talks on [Speaker Deck](https://speakerdeck.com/kentarom/)
